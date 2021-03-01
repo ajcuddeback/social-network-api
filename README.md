@@ -1,7 +1,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/ajcuddeback/social-network-api)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ajcuddeback/social-network-api)
 ![GitHub issues](https://img.shields.io/github/issues/ajcuddeback/social-network-api)
-![YouTube Video Views](https://img.shields.io/youtube/views/Uz7rW3B_2tg?label=YT%20Views&logo=youtube&logoColor=red&style=flat-square)
+![YouTube Video Views](https://img.shields.io/youtube/views/SdRvP-2GKzY?label=YT%20Views&logo=youtube&logoColor=red&style=flat-square)
 
 # Social Network Api
 
@@ -26,7 +26,7 @@ This project usage is for anyone that needs a back-end for their social network 
 
 ## Instructions
 
-- If you would like to view a video on how to install and use, go to my [Youtube Channel](https://youtu.be/Uz7rW3B_2tg)
+- If you would like to view a video on how to install and use, go to my [Youtube Channel](https://youtu.be/SdRvP-2GKzY)
 
 - Step 1: Clone this repository
 
